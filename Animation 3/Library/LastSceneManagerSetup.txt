@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Unity Projects/Animation 2/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
